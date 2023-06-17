@@ -1,4 +1,4 @@
-Name,Nationality,Team,Player_type,Age,IPLGa,Twenty20Av,TwentyStrike,BowlAV,EcoRate,Value
+Name,Nationality,Team,Player_type,Age,IPLGa,Twenty20Av,TwentyStrike,BowlAVG,EcoRate,Value
 Kedar Jadhav,India,Chennai Super Kings,Batsmen,32,64,24.3,136.76,,,1200000
 Faf du Plessis,South Africa,Chennai Super Kings,Batsmen,33,53,27.34,124.31,,,245000
 Suresh Raina,India,Chennai Super Kings,Batsmen,31,161,33.5,139.41,,,1700000
