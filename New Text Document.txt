@@ -173,7 +173,7 @@ Mohammad Nabi,Afghanistan,Sunrisers Hyderabad,All Rounder,33,3,21.91,139.28,20.5
 Chris Jordan,England,Sunrisers Hyderabad,All Rounder,29,10,18.31,121.91,27.03,8.44,150000
 Shakib Al Hasan,Bangladesh,Sunrisers Hyderabad,All Rounder,31,43,20.62,122.08,20.42,6.76,306000
 Carlos Brathwaite,West Indies,Sunrisers Hyderabad,All Rounder,29,10,18.18,151.12,26.56,7.75,306000
-Deepak Hooda,India,Sunrisers Hyderabad,All Rounder,22,41,21.19,143.48,47.2,7.84,551000
+Deepak Hooda,India,Lucknow super giants,All Rounder,22,41,21.19,143.48,47.2,7.84,551000
 Bipul Sharma,India,Sunrisers Hyderabad,All Rounder,34,33,21.24,137.38,23.24,6.38,31000
 Mehdi Hasan,India,Sunrisers Hyderabad,All Rounder,28,0,22.5,100,20.15,6.71,31000
 Wriddhiman Saha,India,Sunrisers Hyderabad,Wicket Keeper,33,104,24.93,130.73,,,766000
