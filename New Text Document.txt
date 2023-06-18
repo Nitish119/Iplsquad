@@ -179,7 +179,7 @@ Mehdi Hasan,India,Sunrisers Hyderabad,All Rounder,28,0,22.5,100,20.15,6.71,31000
 Wriddhiman Saha,India,Sunrisers Hyderabad,Wicket Keeper,33,104,24.93,130.73,,,766000
 Shreevats Goswami,India,Sunrisers Hyderabad,Wicket Keeper,28,23,25.16,108.47,,,150000
 Bhuvneshwar Kumar,India,Sunrisers Hyderabad,Fast Bowler,28,90,9.04,100,22.11,7.04,1300000
-Rashid Khan,Afghanistan,Sunrisers Hyderabad,Spin Bowler,19,14,11,128.2,15.14,5.8,1400000
+Rashid Khan,Afghanistan,Gujarat Titans,Spin Bowler,19,14,11,128.2,15.14,5.8,1400000
 Sandeep Sharma,India,Sunrisers Hyderabad,Fast Bowler,24,56,20.33,95.31,23.06,7.54,460000
 Billy Stanlake,Australia,Sunrisers Hyderabad,Fast Bowler,23,2,,,24.37,7.49,77000
 Siddarth Kaul,India,Sunrisers Hyderabad,Fast Bowler,27,21,10.5,101.61,23.42,6.99,582000
