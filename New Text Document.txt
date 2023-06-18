@@ -163,7 +163,7 @@ Kulwant Khejroliya,India,Royal Challengers Bangalore,Fast Bowler,26,0,,,,,130000
 Murugan Ashwin,India,Royal Challengers Bangalore,Spin Bowler,27,10,10.42,84.88,24.06,7.41,337000
 David Warner,Australia,Sunrisers Hyderabad,Batsmen,31,114,35.33,143.54,,,1800000
 Shikhar Dhawan,India,Sunrisers Hyderabad,Batsmen,32,127,31.52,121.51,,,796000
-Manish Pandey,India,Sunrisers Hyderabad,Batsmen,28,103,28.42,119.63,,,1700000
+Manish Pandey,India,Lucknow super giants ,Batsmen,28,103,28.42,119.63,,,1700000
  Kane Williamson,New Zealand,Sunrisers Hyderabad,Batsmen,27,15,26.72,118.04,29.5,7,459000
 Sachin Baby,India,Sunrisers Hyderabad,Batsmen,29,18,21.23,130.42,,,31000
 Tanmay Agarwal,India,Sunrisers Hyderabad,Batsmen,22,0,26.14,132.45,,,31000
